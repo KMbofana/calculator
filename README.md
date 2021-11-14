@@ -11,6 +11,8 @@
 
 In the project directory, you can run:
 
+nom install - to install the dependences and afterwards run 
+
 ### `npm start`
 
 Runs the app in the development mode.\
